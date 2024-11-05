@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1TtdFpwwT8ZhLHl0lFVYNoJKIuDXiZ-OJ
 """
 
-!pip install streamlit
+#!pip install streamlit
 
 import pandas as pd
 import plotly.express as px
