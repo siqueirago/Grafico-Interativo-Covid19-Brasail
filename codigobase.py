@@ -26,13 +26,13 @@ state = st.sidebar.selectbox('Qual Estado', estados)
 
 # column = 'Total de casos por 100 mil habitantes'
 colunas = ['Novos óbitos', 'Novos casos', 'Total óbitos', 'Obitos por 100 mil habitantes', 'Total de casos por 100 mil habitantes']
-state = st.sidebar.selectbox('Qual tipo de informação', colunas)
+column = st.sidebar.selectbox('Qual tipo de informação', colunas)
 
 
 df = df[df.state == state]
 
-fig = px.line(df, x="date", y=state, title=state + ' - ' + state)
-fig.update_layout(xaxis_title='Data', yaxis_title=state.upper(), title = {'x':0.5, 'y':0.9, 'xanchor':'center', 'yanchor':'top'})
+fig = px.line(df, x="date", y=column, title=column + ' - ' + state)
+fig.update_layout(xaxis_title='Data', yaxis_title=column.upper(), title = {'x':0.5, 'y':0.9, 'xanchor':'center', 'yanchor':'top'})
 
 st.title("DADOS COVID  - BRASIL")
 st.write('Nesta aplicação, o usuário tem a opção de escolher o estado e o tipo de informação para mostrar o gráfico. Utilize o menu lateral para alterar a mostragem')
