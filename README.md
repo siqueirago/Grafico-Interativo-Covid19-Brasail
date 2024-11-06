@@ -1,4 +1,4 @@
-# Projeto de Análise de Dados da COVID-19 com Streamlit
+# Projeto de Análise de Dados da COVID-19 com Python
 
 ## Introdução
 Este projeto faz parte de um desafio do [Digital Innovation One DIO](https://web.dio.me), criado para colocar na prática os conceitos de Análise de Dados apresentados durante o Curso Analises de dados. 
