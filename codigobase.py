@@ -13,6 +13,7 @@ import pandas as pd
 import plotly.express as px
 import streamlit as st
 
+
 # DATASET COVID 19 BRASIL
 df = pd.read_csv('https://raw.githubusercontent.com/wcota/covid19br/master/cases-brazil-states.csv')
 
