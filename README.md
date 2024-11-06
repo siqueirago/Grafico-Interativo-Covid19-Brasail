@@ -35,5 +35,3 @@ Júlio Siqueira
 
 [Meu LinkedIn](https://www.linkedin.com/in/julio-siqueira-9bb0a7203/) 
 
-## Agradecimentos
-Agradecimentos à Inovação Digital Um pelo desafio e a todos que desenvolvem para a realização deste projeto, direta ou indiretamente.
