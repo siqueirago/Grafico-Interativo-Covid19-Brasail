@@ -21,10 +21,11 @@ Este projeto faz parte de um desafio do [Digital Innovation One DIO](https://web
 * **Comparações Temporais e Regionais:** Opção de comparar diferentes períodos e estados para analisar variações na evolução da pandemia.
 
 
-## Exemplos
+## Exemplo
 ![image](https://github.com/user-attachments/assets/686b4911-002d-443b-9169-a24f75245ada)
 
-
+## Link do Site
+[Confira o aplicativo ](https://grafico-interativo-covid19-brasail-3jcu46gvxbvfffohfpnqw4.streamlit.app/)
 
 
 ## Autor
