@@ -27,7 +27,7 @@ Este projeto faz parte de um desafio da [Digital Innovation One DIO](https://web
 
 
 ## Link do Site
-[Confira o aplicativo ](https://grafico-interativo-covid19-brasail-3jcu46gvxbvfffohfpnqw4.streamlit.app/)
+[Confira o aplicativo ](https://grafico-interativo-covid19-brasail.streamlit.app/)
 
 
 ## Autor
