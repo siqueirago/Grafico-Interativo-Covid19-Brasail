@@ -21,8 +21,10 @@ Este projeto faz parte de um desafio da [Digital Innovation One DIO](https://web
 * **Comparações Temporais e Regionais:** Opção de comparar diferentes períodos e estados para analisar variações na evolução da pandemia.
 
 
-## Exemplo
+## Exemplos
 ![image](https://github.com/user-attachments/assets/686b4911-002d-443b-9169-a24f75245ada)
+![image](https://github.com/user-attachments/assets/1daef255-3fcd-48e5-978d-16dd5fbce3be)
+
 
 ## Link do Site
 [Confira o aplicativo ](https://grafico-interativo-covid19-brasail-3jcu46gvxbvfffohfpnqw4.streamlit.app/)
@@ -30,6 +32,8 @@ Este projeto faz parte de um desafio da [Digital Innovation One DIO](https://web
 
 ## Autor
 Júlio Siqueira
+
+[Meu LinkedIn](https://www.linkedin.com/in/julio-siqueira-9bb0a7203/) 
 
 ## Agradecimentos
 Agradecimentos à Inovação Digital Um pelo desafio e a todos que desenvolvem para a realização deste projeto, direta ou indiretamente.
