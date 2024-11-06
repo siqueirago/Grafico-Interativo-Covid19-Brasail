@@ -1,0 +1,6 @@
+[theme]
+base="dark"  # Opção para usar um tema claro ou escuro. Pode ser "light" ou "dark".
+primaryColor="#FF6347"  # Cor principal do aplicativo.
+backgroundColor="#FFFFFF"  # Cor de fundo.
+secondaryBackgroundColor="#F0F2F6"  # Cor de fundo da sidebar.
+textColor="#000000"  # Cor do texto.
