@@ -26,7 +26,7 @@ state = st.sidebar.selectbox('Qual Estado', estados)
 
 # column = 'Total de casos por 100 mil habitantes'
 colunas = ['Novos óbitos', 'Novos casos', 'Total óbitos', 'Obitos por 100 mil habitantes', 'Total de casos por 100 mil habitantes']
-state = st.sidebar.selectbox('Qual tipo de informação', colunas)
+column = st.sidebar.selectbox('Qual tipo de informação', colunas)
 
 
 df = df[df.state == state]
